@@ -1,0 +1,20 @@
+#logging:
+#  level:
+#    root: info
+#    com:
+#      baidu:
+#        test:
+#          mapper: debug
+#  file:
+#    name: ./log/business_Log/bsiness.log
+#    max-history: 1
+#    max-size: 10MB
+#    clean-history-on-start: true
+#    total-size-cap: 10240
+#    path:
+#  pattern:
+#    rolling-file-name:
+#    dateformat:
+#    level:
+#    file:
+#    console:
